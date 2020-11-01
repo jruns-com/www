@@ -1,4 +1,4 @@
-+ [polish version - PL](https://www.jruns.com/README_PL.html)
+[comment]: <> (+ [polish version - PL]&#40;https://www.jruns.com/README_PL.html&#41;)
 
 # jRuns Project
 
@@ -18,29 +18,6 @@
 + [Example Application](https://app.jruns.com/)
 
 
-## Versions
-
-## on  Desktop with electron
-
-### one
-If you want use the window
-executable file is inside the project,
-without config file
-+ [one](https://one.jruns.com/)
-binary file for: linux, iOS or windows system
-
-### Multi
-For many projects
-executable file is global for whole system
-config file is depends project or user
-+ [multi](https://multi.jruns.com/)
-
-
-## Server on port 3001
-based on NodeJS
-executed as nodeJS application
-
-
 ## How to start on windows?
 Please use this dedicated project for windows environment:
 [jruns/windows: Environment prepared to execute jRuns on windows OS](https://github.com/jruns/windows)
@@ -48,7 +25,7 @@ Please use this dedicated project for windows environment:
 ## required
 
 + git, https://gitforwindows.org/
-+ nodejs
+
 
 ## Installation on windows
 
@@ -69,17 +46,11 @@ download using git command
 
     doc.bat
 
-![browser_docs_jruns.png](docs/browser_docs_jruns.png)
-
     info.bat
-
-![shell_info.png](docs/shell_info.png)
 
 ## update
 
     update.bat
-
-![update.png](docs/update.png)
 
 
 
