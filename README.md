@@ -31,15 +31,15 @@ Please use this dedicated project for windows environment:
 
 download using git command
 
-    git clone https://github.com/jruns/windows.git jruns-win
-    cd jruns-win
+    git clone https://github.com/jruns/runner.git
+    cd runner
 
 ## start working with jRuns
 
-    download.bat
-    install.bat
-    
-    restart.bat
+
+    install.bat 
+    start.bat
+    stop.bat
 
 
 ## check in console
