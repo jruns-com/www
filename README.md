@@ -52,6 +52,11 @@ download using git command
 
     update.bat
 
+# Competitors in DevOPS
+
++ [Essential DevOps Principles for 2021 - CircleCI](https://circleci.com/blog/essential-devops-principles/)
+
+
 
 
 # The project is supported by [API Foundation](https://www.apifoundation.com)
